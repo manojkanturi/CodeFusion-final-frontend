@@ -1,0 +1,11 @@
+li{
+    white-space: pre-line;
+}
+
+.line{
+    background-color: 'black' !important;
+}
+
+body{
+    background-color: powderblue;
+}

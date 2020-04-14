@@ -1,0 +1,99 @@
+.titlediv{
+  text-align: center;
+}
+.abooutusname{
+  margin-top: 60px;
+  background-color: skyblue;
+  border-radius: 50px;
+  font-weight: bold;
+  font-size: 80px;
+  height: 100px;
+  margin-left: 600px;
+  margin-right: 600px;
+
+}
+.SectionOne{
+  text-align: center;
+  border-radius: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 500px;
+  padding-right: 500px;
+  opacity: 70%;
+  background-color: black;
+  margin: 20px;
+  color: white;
+}
+.SectionOne p{
+  text-transform: uppercase;
+}
+.hrtitle{
+  border: 1px solid white;
+}
+.teammemberdiv{
+  background-color: skyblue;
+  border-radius: 40px;
+  margin-left: 600px;
+  margin-right: 600px;
+}
+.teammembertitle{
+  font-size: 50px;
+  font-weight: bold;
+}
+.imageSectionFirst{
+  text-align: center;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 40px;
+}
+
+.imageStyle{
+  padding: 10px;
+  border-radius: 20px;
+  margin: 20px;
+  background-color: white;
+}
+.styleofimage{
+  width: 100%;
+  height: 70%;
+}
+.teammeberimages{
+  width: 100%;
+}
+.aboutourprojecttitle{
+  margin: 40px;
+  background-color: skyblue;
+  border-radius: 30px;
+  margin-left: 600px;
+  margin-right: 600px;
+}
+#myCarousel{
+	height: fit-content;
+	padding-left: 100px;
+	padding-right: 100px;
+
+}
+.carousel-inner{
+	border-radius: 20px;
+}
+.carousel_img{
+	border-radius: 30px;
+	background: #FFF;
+	padding: 0.5rem;
+height: 600px;
+}
+.carousel-caption h2{
+  font-weight: bold;
+  font-size: 40px;
+  color:orange;
+}
+.carousel-caption li {
+  font-weight: bold;
+  font-size: 20px;
+  color:gold;
+}
+.imageSectionSecond{
+  padding-left: 600px;
+  padding-right: 600px;
+
+}

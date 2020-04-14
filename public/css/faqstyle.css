@@ -1,0 +1,39 @@
+.container-fluid{
+  background-color: powderblue;
+  padding: 20px;
+}
+.faqtitle{
+  margin-left: 400px;
+  border-radius: 100px;
+  width: 300px;
+  height: 100px;
+  font-weight: bold;
+  background-color:skyblue;
+  font-size: 80px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.questionicon{
+font-size: 70px;
+}
+.faqquesttitle{
+  background-color:skyblue;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  margin: 10px;
+  margin-top: 50px;
+
+}
+.faqquestdiv{
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+}
+.faqquestname{
+  color: red;
+  font-weight: bold;
+}
+

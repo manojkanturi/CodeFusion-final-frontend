@@ -1,0 +1,66 @@
+
+.contactustitle{
+  margin: 10px;
+  background-color: skyblue;
+  border-radius: 50px;
+  width: 500px;
+  font-weight: bold;
+  font-size: 60px;
+  margin-left: 300px;
+  padding: 20px;
+}
+.colheader{
+  background-color: skyblue;
+  border-radius: 40px;
+  margin-left: 20px;
+  width: 150px;
+
+}
+.colheader h5{
+  margin-left: 20px;
+}
+.listicon{
+  margin-left: 10px;
+}
+.gotomaptitle{
+  color:black;
+}
+.imagediv{
+  padding: 10px;
+  margin: 20px;
+background-color: skyblue;
+border-radius: 20px;
+}
+.imagehere1{
+  height: 150px;
+  width:20%;
+
+}
+.imagehere2{
+  height: 150px;
+  width:60%;
+
+}
+.imagehere3{
+  height: 150px;
+  width:40%;
+
+}
+.columnstyle1{
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+ background-color:#ADDFFF;
+}
+.columnstyle2{
+  padding: 10px;
+  border-radius: 20px;
+  margin: 10px;
+  background-color:#BDEDFF;
+}
+.columnstyle3{
+  margin: 10px;
+  border-radius: 20px;
+  padding: 10px;
+  background-color:#ADDFFF;
+}
